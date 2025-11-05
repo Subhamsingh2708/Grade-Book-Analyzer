@@ -1,1 +1,1 @@
-# Grade-Book-Analyzer
+The Gradebook Analyzer is an educational tool written in Python that allows users to input student names and marks, then analyze and display detailed statistical insights. It helps in calculating averages, medians, and identifying top and bottom scores, while also assigning grades based on specified criteria. Designed with a simple menu-driven interface, it offers an organized way to review class performance and make data-driven decisions easily.![Output](https://github.com/user-attachments/assets/bd7d35ce-0e18-4c66-a78d-6366ba6f8f3f)
